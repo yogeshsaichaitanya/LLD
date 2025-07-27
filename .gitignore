@@ -1,17 +1,14 @@
-# IntelliJ files
 .idea/
 *.iml
 
-# OS files
-.DS_Store
-
-# Logs
-*.log
-
 # Build output
 out/
-target/
 build/
+target/
 
-# Gradle
+# System files
+.DS_Store
+*.log
+
+# Gradle/Maven
 .gradle/
